@@ -1,0 +1,45 @@
+/* Using Color Name */
+h6{
+    color: red;
+}
+/*Using Hexa Decimal Number */
+h5{
+    color: #ff0000;
+}
+
+/* Using RGB Color 
+r - red - 0-255
+g - green 0-255
+b - blue  0-255
+*/
+p{
+    color: rgb(255,165,0);
+}
+/* Using RGBA Color 
+r - red - 0-255
+g - green 0-255
+b - blue  0-255
+a - alpha 0-1
+*/
+h4{
+    color: rgba(255,0,0,0.6);   
+}
+/* 
+using hsl Color 
+h - hue 0-360
+s - saturation  0-100%
+l - lightness   0-100%
+*/
+h2{
+    color: hsl(0, 82%, 72%);
+}
+/* 
+using hsla Color 
+h - hue 0-360
+s - saturation  0-100%
+l - lightness   0-100%
+a - alpha       0-1
+*/
+h1{
+    color: hsl(0, 82%, 72%,.5);
+}
