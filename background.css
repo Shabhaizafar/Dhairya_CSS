@@ -1,0 +1,17 @@
+body{
+    /* background-color: lime; */
+    background-image: url(i1.png);
+                    /*width  height  */
+    /* background-size: 200px 200px; */
+    background-size: 100% ;
+
+}
+div{
+    /* background-color: coral; */
+}
+h1{
+    /* background-color: #0000ff; */
+}
+p{
+    /* background-color: rgb(255,0,255); */
+}

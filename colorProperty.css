@@ -31,7 +31,7 @@ s - saturation  0-100%
 l - lightness   0-100%
 */
 h2{
-    color: hsl(0, 82%, 72%);
+    color: hsl(0, 82%, 50%);
 }
 /* 
 using hsla Color 
