@@ -1,0 +1,47 @@
+div{
+    background-color: coral;
+    height: 600px;
+    background-image: url(https://cdn.pixabay.com/photo/2020/05/29/08/54/beach-5234306_640.jpg);
+    background-size: 120px;
+
+    /* default */
+    /* background-repeat: repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: space; */
+    /* background-repeat: round; */
+                        /* X    Y */
+    /* background-repeat: space round; */
+    /* background-repeat: round space; */
+
+
+
+
+
+
+    /* default */
+    /* background-position: 0px 0px; */
+    /* background-position: 100px 200px; */
+    /* background-position: center; */
+    /* background-position: left; */
+    /* background-position: right; */
+    /* background-position: top; */
+    /* background-position: bottom; */
+
+    /* background-position: left bottom; */
+    /* background-position: right bottom; */
+    /* background-position: right top; */
+
+    /* background-position: 30% 50%; */
+
+
+
+
+
+
+
+
+
+
+}
